@@ -1,1 +1,1 @@
-alias commit="~/shell/gitcommit.sh"
+alias commit="~/gitcommit.sh"
