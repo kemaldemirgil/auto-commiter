@@ -8,3 +8,8 @@ This is a shell script application which allows the user to add, commit and push
 
 ## Usage 
 Simply on the preferred repo directory, open the terminal and type in `commit` to run the program. It will prompt for a commit description and once it's entered it will push automatically.
+
+## License
+
+Copyright © Kemal Demirgil. All rights reserved.
+Licensed under the [MIT](https://github.com/kemaldemirgil/auto-commiter/blob/main/LICENSE) license.
