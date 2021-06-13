@@ -1,0 +1,1 @@
+alias commit="~/shell/gitcommit.sh"
