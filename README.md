@@ -15,4 +15,4 @@ Copyright © Kemal Demirgil. All rights reserved.
 Licensed under the [MIT](https://github.com/kemaldemirgil/auto-commiter/blob/main/LICENSE) license.
 
 
-testing
+testing2
