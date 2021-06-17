@@ -13,6 +13,3 @@ Simply on the preferred repo directory, open the terminal and type in `commit` t
 
 Copyright © Kemal Demirgil. All rights reserved.
 Licensed under the [MIT](https://github.com/kemaldemirgil/auto-commiter/blob/main/LICENSE) license.
-
-
-testing2
