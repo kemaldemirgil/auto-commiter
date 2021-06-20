@@ -14,4 +14,5 @@ git push origin main
 echo -e "\e[1;30m<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>> \e[0m"
 echo ""
 echo -e "\e[0;33m                Thanks for using the auto-committer!                \n \e[0m"
+echo -e "\e[1;30mhost>>\e[0m"`hostname`
 echo -e "\e[1;30m<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>> \e[0m"
