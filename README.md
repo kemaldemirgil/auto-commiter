@@ -1,4 +1,4 @@
-# Auto Commiter
+# Auto Committer
 This is a shell script application which allows the user to add, commit and push to a github repo with just a single command.
 
 ## Installation
